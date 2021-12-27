@@ -39,6 +39,6 @@ yarn-error.log*
 
 public/sitemap.xml
 
-burdy
+burdy/*
 !burdy/database
 !burdy/upload
